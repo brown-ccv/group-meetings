@@ -3,7 +3,7 @@ slides and resources from DSP group meetings
 
 slides should be uploaded in PDF format, as well as the raw format (for google slides, adding the URL to the readme is sufficient). update the table below with a link to both formats.
 
-| Date       | Discussion Leader(s) | Topic                                       | Link to Reading                  | Link to Raw Slides                    | Link to PDF Slides                     |                    
+| Date       | Discussion Leader(s) | Topic                                       |         Reading                  |         Raw Slides                    |          PDF Slides                     |                    
 | ---------- | -------------------- | ------------------------------------------- | -------------------------------- | ------------------------------------- | -------------------------------------- |
 | 05/08/2018 | Paul                 | Solving the Two Language Problem with Julia |                                  |                                       |                                        |                  
 | 05/22/2018 | Andras and August    | ODSC Overview                               |                                  |                                       | [odsc.pdf](./slides/ODSC_overview.pdf) |
