@@ -14,7 +14,8 @@ slides should be uploaded in PDF format, as well as the raw format (for google s
 | 08/14/2018 | Ivana                | PhD Thesis: Neuroscience/Statistics         |                                  |                                       |                                        |
 | 08/28/2018 | Ashley               | CatBoost                                    | https://arxiv.org/abs/1706.09516 | [catboost.key](./slides/catboost.key) | [catboost.pdf](./slides/catboost.pdf)  |
 | 10/09/2018 | Sam                  |                                             |                                  |                                       |                                        | 
-| 10/23/2018 | Yiyi                 |                                             |                                  |                                       |                                        |
+| 10/23/2018 |                  |                                             |                                  |                                       |                                        |
 | 11/06/2018 | Mary                 |                                             |                                  |                                       |                                        |
 | 11/20/2018 | Fernando and Ashley  | DSP Website and Updating Content with Hugo  |                                  |                                       |                                        |
 | 12/04/2018 | August               |                                             |                                  |                                       |                                        |
+| 12/18/2018 | Yiyi               |                                             |                                  |                                       |                                        |
